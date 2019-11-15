@@ -1,6 +1,6 @@
 {
   "app": {
-    "access_token": "5dceb1d206073e6e2910ecda!84c17ec13136ee31b51352e317343602", 
+    "access_token": "YOUR_API_KEY", 
     "base_language": "en", 
     "pull": {
       "target": [
