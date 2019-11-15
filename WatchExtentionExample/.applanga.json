@@ -1,0 +1,22 @@
+{
+  "app": {
+    "access_token": "5dceb1d206073e6e2910ecda!84c17ec13136ee31b51352e317343602", 
+    "base_language": "en", 
+    "pull": {
+      "target": [
+        {
+          "file_format": "ios_strings", 
+          "path": "./<language>.lproj/Localizable.strings"
+        }
+      ]
+    }, 
+    "push": {
+      "source": [
+        {
+          "file_format": "ios_strings", 
+          "path": "./<language>.lproj/Localizable.strings"
+        }
+      ]
+    }
+  }
+}
